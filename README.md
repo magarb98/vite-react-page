@@ -2,11 +2,6 @@
 
 Static page created using React. Compiled using Vite. https://magarb98.github.io/vite-react-page/
 
-## Table of contents
-
-- [Built with](#built-with)
-- [Author](#author)
-
 ## Built with
 
 - Semantic HTML5 markup
